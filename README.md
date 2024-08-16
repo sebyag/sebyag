@@ -22,7 +22,6 @@
 ### 💡 Proyectos Destacados
 
 - **[app-turismo-guayas](https://github.com/geogeyaguana/app-turismo-guayas)**: Aplicación móvil para turismo que muestra rutas y lugares de interés en la región de Guayas.
-- **[E-commerce App](https://github.com/geogeyaguana/ecommerce-app)**: Una plataforma de comercio electrónico con gestión de productos, carrito de compras, y sistema de pago.
 
 ### 🎯 Metas Personales
 

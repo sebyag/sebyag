@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy [George Yaguana Mendoza]
+# 👋 ¡Hola! Soy George Yaguana Mendoza
 
 ### 🚀 Desarrollador Web | React & React Native Enthusiast
 
